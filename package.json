@@ -1,0 +1,24 @@
+{
+  "name": "text-copy",
+  "version": "1.0.0",
+  "description": "a small js library for copying text to clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferrriii/text-copy.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "text"
+  ],
+  "author": "Farshad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferrriii/text-copy/issues"
+  },
+  "homepage": "https://github.com/ferrriii/text-copy#readme"
+}
