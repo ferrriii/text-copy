@@ -12,6 +12,8 @@ Then `CopyText` function is availabe. Use it like below.
 <button onClick="CopyText('text to copy')">copy</button>
 ```
 
+`CopyText()` returns `true` if text is successfully copied.
+
 ## NPM ssage
 If you want to use it in JS frameworks like Vue or React, install it as below.
 ```
@@ -22,7 +24,7 @@ and then use it as below
 import copy from 'text-copy'
 
 // some where it the code
-copy('text to copy')
+let isCopied = copy('text to copy')
 ```
 
 **Note**: copy function should be called inside a user-generated event listener.
