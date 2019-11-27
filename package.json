@@ -1,6 +1,6 @@
 {
   "name": "text-copy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a small js library for copying text to clipboard",
   "main": "index.js",
   "scripts": {
