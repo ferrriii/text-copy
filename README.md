@@ -1,5 +1,5 @@
 # text-copy
-a small js library (266 bytes gzipped) for copying text to clipboard.
+a small js library (271 bytes gzipped) for copying text to clipboard.
 
 ## Browser usage
 Load `index.js`. You can use a CDN like below.
@@ -14,7 +14,7 @@ Then `CopyText` function is availabe. Use it like below.
 
 `CopyText()` returns `true` if text is successfully copied.
 
-## NPM ssage
+## NPM usage
 If you want to use it in JS frameworks like Vue or React, install it as below.
 ```
 npm i text-copy
