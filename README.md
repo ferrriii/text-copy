@@ -1,5 +1,7 @@
 # text-copy
-a small js library (271 bytes gzipped) for copying text to clipboard.
+a small js library (238 bytes gzipped) for copying text to clipboard.
+
+Tested on: Chrome, Firefox, Safari, Edge and IE11.
 
 ## Browser usage
 Load `index.js`. You can use a CDN like below.

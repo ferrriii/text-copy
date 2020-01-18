@@ -5,8 +5,6 @@ const CopyText = (function () {
   const copy = function (str) {
     if (!el) {
       el = document.createElement('input')
-      el.style.cssText = 'position:absolute;opacity:0;'
-      el.setAttribute('type', 'hidden')
       document.body.appendChild(el)
     }
     el.value = str
