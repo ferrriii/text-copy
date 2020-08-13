@@ -1,5 +1,7 @@
 # text-copy
-a small js library (238 bytes gzipped) for copying text to clipboard.
+<img alt="weekly downloads" src="https://img.shields.io/npm/dw/text-copy?style=flat-square"> <img alt="version" src="https://img.shields.io/npm/v/text-copy?style=flat-square"> <img alt="issues" src="https://img.shields.io/github/issues/ferrriii/text-copy?style=flat-square"> <img alt="package size" src="https://img.shields.io/bundlephobia/minzip/text-copy?style=flat-square"> <img alt="forks" src="https://img.shields.io/github/forks/ferrriii/text-copy?style=flat-square"> <img alt="stars" src="https://img.shields.io/github/stars/ferrriii/text-copy?style=flat-square"> <img alt="license" src="https://img.shields.io/github/license/ferrriii/text-copy?style=flat-square"> <img alt="programming language" src="https://img.shields.io/github/languages/top/ferrriii/text-copy?style=flat-square">
+
+a small js library ( <img alt="preview badge" src="https://img.shields.io/bundlephobia/minzip/text-copy?style=flat-square"> ) for copying text to clipboard.
 
 Tested on: Chrome, Firefox, Safari, Edge and IE11.
 
