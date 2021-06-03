@@ -1,13 +1,14 @@
 // eslint-disable-next-line
 const CopyText = (function () {
   let el
-  
+
   const copy = function (str) {
     if (!el) {
       el = document.createElement('input')
       document.body.appendChild(el)
     }
     el.value = str
+    el.setAttribute('readonly', 'true') // FIX for: https://github.com/ferrriii/text-copy/issues/3
     el.setAttribute('type', 'text')
     el.select()
     el.setSelectionRange(0, 9999) // For mobile devices
